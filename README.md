@@ -1,4 +1,4 @@
-# Trabalho feito no âmbito da UC - Programação Orientada por Objetos 2022/23
+# Trabalho feito no âmbito da UC - Programação Orientada a Objetos 2022/23
 
 Grupo:
 
